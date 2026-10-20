@@ -1,6 +1,5 @@
 # Robots.txt for Funngro Revamp
-# Default canonical domain placeholder: https://funngro-revamp.vercel.app
-# Update domain in sitemap URL upon final deployment
+# Deployed Domain: https://funngro-revamp-five.vercel.app
 
 User-agent: *
 Allow: /
@@ -11,4 +10,4 @@ Allow: /for-brands
 Disallow: /api/
 Disallow: /admin/
 
-Sitemap: https://funngro-revamp.vercel.app/sitemap.xml
+Sitemap: https://funngro-revamp-five.vercel.app/sitemap.xml

@@ -10,7 +10,7 @@ export default function NotFoundPage() {
       <SEO
         title="Page Not Found — Funngro"
         description="The page you were looking for could not be located. Explore opportunities for teens or enterprise youth campaign services."
-        canonical="https://funngro-revamp.vercel.app/404"
+        canonical="https://funngro-revamp-five.vercel.app/404"
       />
 
       <Header />

@@ -29,7 +29,7 @@ export default function TeenPage() {
       <SEO
         title="Teen Earning & Learning Journey — Funngro"
         description="Discover how young people across India earn their first income safely, complete verified brand projects, and develop real-world career skills."
-        canonical="https://funngro-revamp.vercel.app/teen"
+        canonical="https://funngro-revamp-five.vercel.app/teen"
       />
 
       <Header />

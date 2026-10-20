@@ -32,7 +32,7 @@ export default function BrandsPage() {
       <SEO
         title="Youth Marketing & Campaign Services — Funngro for Brands"
         description="Collaborate with young India on authentic UGC, campus ambassador activations, product testing, and consumer feedback campaigns."
-        canonical="https://funngro-revamp.vercel.app/for-brands"
+        canonical="https://funngro-revamp-five.vercel.app/for-brands"
       />
 
       <Header />
